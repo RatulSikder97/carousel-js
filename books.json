@@ -1,0 +1,101 @@
+{
+	"books": [
+		{
+			"id": 1,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 2,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 3,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 4,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 5,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 6,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+
+		{
+			"id": 7,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 8,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book.jpg"
+		},
+		{
+			"id": 9,
+			"name": "আ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 10,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 11,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 12,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 13,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 14,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 15,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		},
+		{
+			"id": 16,
+			"name": "আদর্শ পরিবার",
+			"price": "100 TK",
+			"image": "img/book1.jpg"
+		}
+	]
+}
